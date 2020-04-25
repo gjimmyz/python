@@ -49,4 +49,4 @@ else:
 
 PS:
 有相应的shell代码 主要是为了和shell比较下
-具体地址:https://github.com/gjimmyz/shell/blob/master/os_file_1.sh
+具体地址:https://github.com/gjimmyz/shell/blob/master/1_os_file_1.sh
