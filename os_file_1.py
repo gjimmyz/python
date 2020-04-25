@@ -1,11 +1,11 @@
 直接上代码
-[root@localhost scripts]# cat file_1.py
+[root@localhost scripts]# cat os_file_1.py
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 #--------------------------------------------------
 #Author:gongzheng
 #Email:85646830@qq.com
-#FileName:file_1.py
+#FileName:os_file_1.py
 #Function: 
 #Version:1.0 
 #Created:2020-04-20
@@ -40,7 +40,7 @@ else:
 	    print line.strip()
 
 效果:		
-[root@localhost scripts]# python file_1.py
+[root@localhost scripts]# python os_file_1.py
 送杜少府之任蜀州
 城阙辅三秦，风烟望五津。
 与君离别意，同是宦游人。
@@ -49,4 +49,4 @@ else:
 
 PS:
 有相应的shell代码 主要是为了和shell比较下
-具体地址:https://github.com/gjimmyz/shell/blob/master/file_1.sh
+具体地址:https://github.com/gjimmyz/shell/blob/master/os_file_1.sh
