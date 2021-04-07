@@ -8,6 +8,8 @@
 #Version:1.0
 #Created:2021-04-07
 #--------------------------------------------------
+#https://docs.python.org/2/library/subprocess.html#subprocess.Popen.communicate
+#https://stackoverflow.com/questions/16642681/whats-the-difference-between-communicate-and-communicate0
 import subprocess
 import time
 
