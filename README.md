@@ -10,9 +10,9 @@
 
 6、time_subproces_1 du_usage_3.py du空间
 
-7、subproces sys 判断某个字符串中是否包含某个子字符串
+7、subproces sys 判断某个字符串中是否包含某个子字符串 if in
 
-8、subproces 及字符串相关
+8、subproces 及字符串相关 if else等等
 
 9、
 
