@@ -1,1 +1,14 @@
-https://programtalk.com/python-examples
+1、https://programtalk.com/python-examples
+2、使用tab功能
+1)tab.py
+import sys
+import readline
+import rlcompleter
+import os
+readline.parse_and_bind('tab: complete')
+histfile=os.path.join(os.environ['HOME'],'.pythonhistory')
+2)查看下python路径
+import sys
+sys.path
+3)将tab.py复制到python路径
+cp tab.py 
