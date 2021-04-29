@@ -14,7 +14,7 @@
 
 8、subproces 及字符串相关 if else等等
 
-9、
+9、日志分析uptime
 
 10、
 
